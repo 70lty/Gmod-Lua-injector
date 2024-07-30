@@ -14,5 +14,4 @@ ZLua Injector is a simple and effective tool for injecting DLLs into processes o
 2. **Run**: Execute the injector and follow the prompts.
 3. **Inject**: Wait for `gmod.exe` to start and inject the DLL.
 
-## Example Code Snippet
 
